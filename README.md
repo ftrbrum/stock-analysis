@@ -1,7 +1,7 @@
 # stock-analysis
 Analysis of Green Energy Stocks
 
-##Overview of Project
+## Overview of Project
 
 ### The purpose of this project was to refactor the initial VBA code on green_stocks.xlsm file to make it more efficeient.  This should also allow the file to be edited and debugged easier in the future.
 
