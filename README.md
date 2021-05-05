@@ -16,7 +16,7 @@ As shown in the images above, the first version of the VBA code ran in over 0.9 
 
 ### Analysis of VBA VBA_Challenge.xlsm
 
-![VBA_Challenge_2017.png](https://github.com/ftrbrum/kickstarter-analysis/blob/main/Theatre_Outcomes_vs_Launch.png)
+![VBA_Challenge_2017.png](resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018.png](https://github.com/ftrbrum/kickstarter-analysis/blob/main/Theatre_Outcomes_vs_Launch.png)
 
 As shown in the images above, the refactored version of the VBA code ran in under 0.16 seconds. This is an improvement of 0.74 seconds over the previous VBA code.
