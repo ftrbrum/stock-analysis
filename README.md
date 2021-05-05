@@ -8,14 +8,14 @@ Analysis of Green Energy Stocks
 
 ## Analysis and Challenges
 
-### Analysis of VBA green_stocks.xlsm
+### Analysis of VBA in green_stocks.xlsm
 
 ![green_stocks_2017.png](resources/green_stocks_2017.png)
 ![green_stocks_2018.png](resources/green_stocks_2018.png)
 
 As shown in the images above, the first version of the VBA code ran in over 0.9 seconds.
 
-### Analysis of VBA VBA_Challenge.xlsm
+### Analysis of VBA in VBA_Challenge.xlsm
 
 ![VBA_Challenge_2017.png](resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018.png](resources/VBA_Challenge_2018.png)
