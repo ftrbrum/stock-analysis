@@ -1,4 +1,5 @@
 # stock-analysis
+
 Analysis of Green Energy Stocks
 
 ## Overview of Project
@@ -27,12 +28,6 @@ The advantages for refactoring the VBA code for All Stocks Analysis worksheet we
 
 The disadvantges for refractoring VBA code is the time it can consume for other projects.  It might be more time efficient to rewrite the code from scratch. 
 
-## Results
+## Conclusion
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+With the refractered code, we have increased performance by an average of 0.74 seconds and created a more readable code for any future updates.
